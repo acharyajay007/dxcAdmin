@@ -10,7 +10,7 @@
 	- php artisan migrate
 	- php artisan db:seed
 - Dump 
-	- database/dxc_db.sql
+	- dump/dxc_db.sql
 
 ## Rest APIs
 - https://www.getpostman.com/collections/596fb384287bab34d9af
